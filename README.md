@@ -15,7 +15,7 @@ https://mybinder.org/v2/gh/DanielTemesgen/mybinder-template/master?urlpath=lab
 Replace it with the following: <br>
 https://mybinder.org/v2/gh/YOUR_USER_NAME/YOUR_REPO_NAME/master?urlpath=lab
 
-### File Desription
+## File Description
 * binder
   * `environment.yml` - conda environment, this includes `beakerx` which enables JVM kernels.
   * `postBuild` - a script which runs after the jupyterlab session has been created. We can then install jupyterlab extensions such as table of contents.
