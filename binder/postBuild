@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Add jupyterlab extenstions
+jupyter labextension install @jupyterlab/toc

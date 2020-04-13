@@ -1,0 +1,6 @@
+name: notebook
+channels:
+  - conda-forge
+dependencies:
+  - ipywidgets
+  - beakerx
